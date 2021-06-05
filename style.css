@@ -508,3 +508,14 @@ footer .text span a:hover{
     color: #4070f4;
   }
 }
+.me-icons{
+  padding: 60px 0;
+  text-align: center;
+  background: #fff;
+  i{
+    margin: 0 20px;
+    color: #333;
+    cursor: pointer;
+  }
+}
+
